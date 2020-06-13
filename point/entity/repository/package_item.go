@@ -1,6 +1,6 @@
 package repository
 
-import "regi/entity"
+import "regi/point/entity"
 
 type PackageItemRepository struct {
 	storage map[string]*entity.PackageItem

@@ -1,6 +1,6 @@
 package repository
 
-import "regi/entity"
+import "regi/point/entity"
 
 type VolumeItemRepository struct {
 	storage map[string]*entity.VolumeItem

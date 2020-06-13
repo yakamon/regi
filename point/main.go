@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"math"
 	"os"
-	"regi/entity"
-	"regi/entity/repository"
+	"regi/point/entity"
+	"regi/point/entity/repository"
 	"strconv"
 	"strings"
 )
